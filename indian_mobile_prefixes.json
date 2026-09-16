@@ -1,0 +1,8567 @@
+[
+  {
+    "prefix": "6109",
+    "operator": "AP",
+    "circle": ""
+  },
+  {
+    "prefix": "6202",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6203",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6204",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6205",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6206",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6207",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6209",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6230",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "6232",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6235",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "6238",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "6260",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6261",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6262",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6263",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6264",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6265",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6266",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6267",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6268",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6269",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "6280",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "6282",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "6283",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "6284",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "6287",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "6290",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "6291",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "6303",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "6304",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "6305",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "6306",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "6308",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6309",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6353",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "6354",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "6356",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "6357",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "6361",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "6362",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6363",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6364",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6365",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6366",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6368",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "6369",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "6372",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "6373",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "6374",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "6376",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6377",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "6378",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "6379",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "6380",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "6382",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6383",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6384",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6385",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6387",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "6388",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6389",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6390",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6391",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "6393",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7000",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7001",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7002",
+    "operator": "RJ",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7003",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7004",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7005",
+    "operator": "RJ",
+    "circle": "North East"
+  },
+  {
+    "prefix": "7006",
+    "operator": "RJ",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "7007",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7008",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7009",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7010",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7011",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7012",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7013",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7014",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7015",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7016",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7017",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7018",
+    "operator": "RJ",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "7019",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7020",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7021",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7022",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7023",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7024",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7025",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7026",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7027",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7028",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7029",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7030",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7032",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7033",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7034",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7036",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7038",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7039",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7042",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7043",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7044",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7045",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7046",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7047",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7048",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7049",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7050",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7051",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "7052",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7054",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7055",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7056",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7057",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7059",
+    "operator": "CG",
+    "circle": ""
+  },
+  {
+    "prefix": "7060",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7061",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7062",
+    "operator": "",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7063",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7064",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7065",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7066",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7067",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7068",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7069",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7070",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7071",
+    "operator": "AC",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7072",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7073",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7074",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7076",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7077",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7078",
+    "operator": "",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7079",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7080",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7081",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7082",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7083",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7084",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7085",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "7086",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7087",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7088",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7089",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7090",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7091",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7092",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7093",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7094",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7095",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7096",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7097",
+    "operator": "",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7099",
+    "operator": "",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7102",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7103",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7138",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7207",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7209",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7218",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7220",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7230",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7238",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7250",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7251",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7252",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7253",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7254",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7255",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7256",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7257",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7258",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7259",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7260",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7261",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7262",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7263",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7264",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7265",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7281",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7282",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7283",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7284",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7290",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7291",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7292",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7293",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7300",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7302",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7303",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7305",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7306",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7307",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7309",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7310",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7311",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7319",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7322",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7323",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7324",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7325",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7337",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7338",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7347",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7348",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7349",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7350",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7351",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7352",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7353",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7354",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7355",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7356",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7357",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7358",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7359",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7360",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7361",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7362",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7370",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7374",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7376",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7377",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7379",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7380",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7381",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7382",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7383",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7385",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7387",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7388",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7389",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7396",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7400",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7406",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7407",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7408",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7409",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7419",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7427",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7449",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7450",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7463",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7474",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7483",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7488",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7490",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7491",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7493",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7494",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7500",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7506",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7507",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7508",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7510",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7517",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7518",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7520",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7534",
+    "operator": "VI",
+    "circle": "UP"
+  },
+  {
+    "prefix": "7540",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7543",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7544",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7545",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7546",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7547",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7549",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7557",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7559",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7562",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7563",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7564",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7566",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7567",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7568",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7570",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7575",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7577",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7579",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7585",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7587",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7588",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7589",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7592",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7594",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7597",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7598",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7599",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7600",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7602",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7604",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7607",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7609",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7617",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7619",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7624",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7625",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7631",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7636",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7639",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7654",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7658",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7659",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7665",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7666",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7667",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7668",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7669",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7671",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7675",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7676",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7678",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7690",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7696",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7697",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7698",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7699",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7700",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7701",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7702",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7703",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7707",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7708",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7709",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7710",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7717",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7718",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7719",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7720",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7721",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7727",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7731",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7736",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7737",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7738",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7739",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7741",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7742",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7745",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7754",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7755",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7756",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7757",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7760",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7762",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7763",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7764",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7767",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7768",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7770",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7774",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7775",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7780",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7788",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7797",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7798",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7799",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7800",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7807",
+    "operator": "AT",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "7808",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7827",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7829",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7830",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7833",
+    "operator": "VI",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "7834",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7835",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7836",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7837",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7838",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7839",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7840",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7860",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7869",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7870",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7871",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7872",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7873",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7874",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7875",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7876",
+    "operator": "RJ",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "7877",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7878",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7879",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7880",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7887",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7888",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7889",
+    "operator": "RJ",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "7890",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7891",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7892",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7893",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7894",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7895",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7896",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "7897",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7898",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7899",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7903",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7904",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7905",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7906",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "7907",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7908",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7909",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7910",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7974",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7975",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7976",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7977",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7978",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "7979",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "7980",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "7981",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7982",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "7983",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7984",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "7985",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "7986",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7987",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "7988",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "7989",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "7990",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "7991",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7992",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "7993",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7994",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "7995",
+    "operator": "",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7996",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "7997",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "7998",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "7999",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8001",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8002",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8003",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8004",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8005",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8006",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8007",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8008",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8009",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8010",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8011",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8016",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8017",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8018",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8051",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8052",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8053",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8054",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8056",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8057",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8058",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8059",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8072",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8073",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8074",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8075",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8076",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8077",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8078",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8081",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8084",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8085",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8086",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8089",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8094",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8095",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8096",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8098",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8102",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8104",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8105",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8106",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8107",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8108",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8111",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8112",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8113",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8114",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8115",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8116",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8118",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8119",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "8120",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8121",
+    "operator": "CG",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8122",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8124",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8126",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8127",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8128",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8129",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8130",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8136",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8137",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8138",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8140",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8141",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8142",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8144",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8145",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8146",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8150",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8151",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8152",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8157",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8158",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8159",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8167",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8168",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8169",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8170",
+    "operator": "AT",
+    "circle": ""
+  },
+  {
+    "prefix": "8171",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8177",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8178",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8179",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8180",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8184",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8185",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8186",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8187",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8191",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8194",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8195",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8196",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8197",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8198",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8199",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8200",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8207",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8208",
+    "operator": "",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8210",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8217",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8218",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8219",
+    "operator": "RJ",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "8220",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8221",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8222",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8223",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8224",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8225",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8226",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8227",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8228",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8229",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8238",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8239",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8240",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8247",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8248",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8249",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8250",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8252",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8270",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8271",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8273",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8275",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8277",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8278",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8279",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8280",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8281",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8283",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8284",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8288",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8289",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8290",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8291",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8292",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8294",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8295",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8297",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8298",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8299",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8304",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8308",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8309",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8310",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8317",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8318",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8319",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8320",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8328",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8329",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8330",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8334",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8335",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8336",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8337",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8338",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8339",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8340",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8341",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8346",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8347",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8348",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8349",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8357",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8358",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8359",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8360",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8367",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8368",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8369",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8370",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8373",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8374",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8375",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8376",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8377",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8378",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8379",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8380",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8383",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8384",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8390",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8392",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8393",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8394",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8395",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8396",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8397",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8398",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8400",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8402",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8403",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8404",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8405",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8406",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8407",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8408",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8409",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8411",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8412",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8414",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "8418",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8420",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8421",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8423",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8425",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8426",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8427",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8428",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8434",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8435",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8436",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8445",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8446",
+    "operator": "",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8447",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8448",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8449",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8451",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8454",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8457",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8465",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8469",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8473",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8476",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8477",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8480",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8483",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8484",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8485",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8486",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8489",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8492",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "8494",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8495",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8496",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8497",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8499",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8500",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8501",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8502",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8503",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8504",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8505",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8506",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8509",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8510",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8511",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8512",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8513",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8514",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8515",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8516",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8517",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8518",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8521",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8522",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8527",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8528",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8529",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8530",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8532",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8536",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8538",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8539",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8540",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8543",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8544",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8546",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8547",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8548",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8549",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8550",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8551",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8552",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8555",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8557",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8558",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8570",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8571",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8572",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8574",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8577",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8578",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8579",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8582",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8583",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8584",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8585",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8586",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8587",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8588",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8590",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8592",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8595",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8599",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8600",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8601",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8605",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8606",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8607",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8608",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8609",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8610",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8617",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8618",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8630",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8639",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8640",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8647",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8648",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8649",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8651",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8652",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8653",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8657",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8658",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8660",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8667",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8668",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8669",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8670",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8674",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8676",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8677",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8678",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8680",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8681",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8682",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8683",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8684",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8685",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8689",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8690",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8691",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8696",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8697",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8698",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8699",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8703",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "8704",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8705",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "8706",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "8712",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8714",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8716",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8718",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8731",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8732",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8733",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8734",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8735",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8736",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8737",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8738",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8739",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8750",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8752",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8754",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8755",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8756",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8757",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8758",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8762",
+    "operator": "CC",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8763",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8764",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8765",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8766",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8768",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8769",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8770",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8777",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8778",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8779",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8780",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8787",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8788",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8789",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8790",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8794",
+    "operator": "VI",
+    "circle": "North East"
+  },
+  {
+    "prefix": "8795",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8800",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8805",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8806",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8807",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8808",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8809",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8810",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8811",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "8813",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8814",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8815",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8816",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8823",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8824",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8825",
+    "operator": "RJ",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "8826",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8827",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8828",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8838",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8839",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8840",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8848",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8849",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8851",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8900",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8901",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8902",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8903",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8905",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8910",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8917",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "8918",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8919",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8920",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8921",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8923",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8929",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "8930",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "8933",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8934",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8935",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8938",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8939",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8940",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8943",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "8948",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "8949",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8965",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8967",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8968",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8969",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8970",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8971",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "8972",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "8974",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "8975",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8978",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8979",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8980",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "8985",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "8986",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8987",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "8988",
+    "operator": "CG",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "8989",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "8990",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8991",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "8992",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "8993",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8994",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "8995",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "8997",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "8999",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9000",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9001",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9002",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9003",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9004",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9005",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9006",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9007",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9008",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9009",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9010",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9011",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9012",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9013",
+    "operator": "CG",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9014",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9015",
+    "operator": "RJ",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9016",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9019",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9021",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9022",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9023",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9024",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9025",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9026",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9027",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9028",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9029",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9030",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9031",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9032",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9033",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9034",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9035",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9036",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9037",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9038",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9039",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9040",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9041",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9042",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9043",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9044",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9045",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9046",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9047",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9048",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9049",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9050",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9051",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9052",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9053",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9054",
+    "operator": "AT",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9055",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9056",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9057",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9058",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9059",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9060",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9061",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9062",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9063",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9064",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9068",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9070",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9071",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9072",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9073",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9074",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9075",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9079",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9080",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9084",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9085",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9086",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9087",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9088",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9089",
+    "operator": "VI",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9090",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9091",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9092",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9093",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9094",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9096",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9099",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9100",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9101",
+    "operator": "RJ",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9102",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9103",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9104",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9108",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9109",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9110",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9111",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9112",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9113",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9117",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9121",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9122",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9123",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9124",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9125",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9126",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9128",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9129",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9130",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9131",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9135",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9136",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9137",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9138",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9140",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9141",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9142",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9146",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9147",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9148",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9149",
+    "operator": "RJ",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9150",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9151",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9152",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9154",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9155",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9156",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9157",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9158",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9159",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9160",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9161",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9162",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9163",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9164",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9165",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9166",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9167",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9168",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9170",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9171",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9172",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9173",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9174",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9175",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9176",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9177",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9178",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9179",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9180",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9181",
+    "operator": "CG",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9182",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9183",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9184",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9185",
+    "operator": "CG",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9186",
+    "operator": "CG",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9187",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9188",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9189",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9190",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9191",
+    "operator": "CG",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9192",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9193",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9194",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9195",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9196",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9197",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9198",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9199",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9200",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9201",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9202",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9203",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9204",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9205",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9207",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9214",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9215",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9216",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9218",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9219",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9224",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9226",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9227",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9229",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9230",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9233",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9234",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9235",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9236",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9237",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9238",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9239",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9240",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9241",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9242",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9244",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9245",
+    "operator": "RJ",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9249",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9250",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9251",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9252",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9254",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9255",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9256",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9257",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9259",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9261",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9262",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9263",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9265",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9266",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9267",
+    "operator": "AT",
+    "circle": "UP"
+  },
+  {
+    "prefix": "9269",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9270",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9272",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9273",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9274",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9276",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9277",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9278",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9279",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9280",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9281",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9284",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9285",
+    "operator": "VI",
+    "circle": ""
+  },
+  {
+    "prefix": "9287",
+    "operator": "RJ",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9296",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9298",
+    "operator": "RJ",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9301",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9302",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9304",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9305",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9306",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9308",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9309",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9310",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9311",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9313",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9315",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9316",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9317",
+    "operator": "RJ",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9318",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9319",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9321",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9322",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9324",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9325",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9326",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9327",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9328",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9330",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9334",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9335",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9336",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9337",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9340",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9341",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9342",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9343",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9344",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9345",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9346",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9347",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9348",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9349",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9350",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9353",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9354",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9355",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9356",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9358",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9359",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9360",
+    "operator": "RJ",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9368",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9369",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9370",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9371",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9372",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9373",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9374",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9375",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9376",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9378",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9380",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9381",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9382",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9383",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9384",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9385",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9389",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9390",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9391",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9392",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9398",
+    "operator": "RJ",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9400",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9401",
+    "operator": "CG",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9402",
+    "operator": "CG",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9403",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9404",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9405",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9406",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9407",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9408",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9409",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9410",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9411",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9412",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9413",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9414",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9415",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9416",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9417",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9418",
+    "operator": "CG",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9419",
+    "operator": "CG",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9420",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9421",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9422",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9423",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9424",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9425",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9426",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9427",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9428",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9429",
+    "operator": "CG",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9430",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9431",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9432",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9433",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9434",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9435",
+    "operator": "CG",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9436",
+    "operator": "CG",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9437",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9438",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9439",
+    "operator": "CG",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9440",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9441",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9442",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9443",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9444",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9445",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9446",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9447",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9448",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9449",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9450",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9451",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9452",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9453",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9454",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9455",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9456",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9457",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9458",
+    "operator": "CG",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9459",
+    "operator": "CG",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9460",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9461",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9462",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9463",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9464",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9465",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9466",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9467",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9468",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9469",
+    "operator": "CG",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9470",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9471",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9472",
+    "operator": "CG",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9473",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9474",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9475",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9476",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9477",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9478",
+    "operator": "CG",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9479",
+    "operator": "CG",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9480",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9481",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9482",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9483",
+    "operator": "CG",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9484",
+    "operator": "CG",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9485",
+    "operator": "CG",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9486",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9487",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9488",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9489",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9490",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9491",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9492",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9493",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9494",
+    "operator": "CG",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9495",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9496",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9497",
+    "operator": "CG",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9498",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9499",
+    "operator": "CG",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9500",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9501",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9502",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9503",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9505",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9506",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9507",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9508",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9509",
+    "operator": "RJ",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9510",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9511",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9512",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9513",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9515",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9518",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9525",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9526",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9527",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9528",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9529",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9530",
+    "operator": "CG",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9531",
+    "operator": "CG",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9532",
+    "operator": "CG",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9534",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9535",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9536",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9537",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9538",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9539",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9540",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9541",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9542",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9544",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9545",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9546",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9547",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9548",
+    "operator": "RJ",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9549",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9550",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9552",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9553",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9554",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9555",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9556",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9557",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9558",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9559",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9560",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9561",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9562",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9564",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9565",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9566",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9567",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9568",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9569",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9570",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9571",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9572",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9573",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9574",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9575",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9576",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9579",
+    "operator": "RJ",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9580",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9581",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9582",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9583",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9584",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9585",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9586",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9587",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9588",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9589",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9591",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9592",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9593",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9594",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9596",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9597",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9598",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9599",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9600",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9601",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9602",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9603",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9604",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9605",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9606",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9608",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9609",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9610",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9611",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9612",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9616",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9617",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9618",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9619",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9620",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9621",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9622",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9623",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9624",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9625",
+    "operator": "RJ",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9626",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9627",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9628",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9629",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9630",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9631",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9632",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9633",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9634",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9635",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9636",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9637",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9638",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9639",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9640",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9641",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9642",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9643",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9644",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9645",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9646",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9647",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9648",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9649",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9650",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9651",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9652",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9653",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9654",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9655",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9656",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9657",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9660",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9661",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9662",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9663",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9664",
+    "operator": "RJ",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9665",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9666",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9667",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9668",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9669",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9670",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9671",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9672",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9673",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9674",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9675",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9676",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9677",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9678",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9679",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9680",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9682",
+    "operator": "RJ",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9683",
+    "operator": "CG",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9684",
+    "operator": "CG",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9685",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9686",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9687",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9689",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9690",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9691",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9692",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9693",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9694",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9695",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9696",
+    "operator": "RJ",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9700",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9701",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9702",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9703",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9704",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9705",
+    "operator": "VI",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9706",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9707",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9708",
+    "operator": "VI",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9710",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9711",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9712",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9713",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9716",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9717",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9718",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9719",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9720",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9722",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9723",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9724",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9725",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9726",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9727",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9728",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9729",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9730",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9731",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9732",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9733",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9734",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9735",
+    "operator": "VI",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9736",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9738",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9739",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9740",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9741",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9742",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9743",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9744",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9745",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9746",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9747",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9748",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9750",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9751",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9752",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9753",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9754",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9755",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9757",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9758",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9759",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9760",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9762",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9763",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9764",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9765",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9766",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9768",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9769",
+    "operator": "RJ",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9770",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9771",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9772",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9773",
+    "operator": "VI",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9774",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9775",
+    "operator": "VI",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9776",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9777",
+    "operator": "RJ",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9778",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9779",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9780",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9782",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9783",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9784",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9785",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9786",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9788",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9789",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9790",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9791",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9792",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9793",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9794",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9795",
+    "operator": "VI",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9796",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9797",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9798",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9800",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9801",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9805",
+    "operator": "AT",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9810",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9811",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9812",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9813",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9814",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9815",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9816",
+    "operator": "AT",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9817",
+    "operator": "RJ",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9818",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9819",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9820",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9821",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9822",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9823",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9824",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9825",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9826",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9827",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9828",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9829",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9830",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9831",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9832",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9833",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9834",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9835",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9836",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9837",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9838",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9839",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9840",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9842",
+    "operator": "RJ",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9843",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9844",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9845",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9846",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9847",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9848",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9849",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9850",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9855",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9860",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9861",
+    "operator": "RJ",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9862",
+    "operator": "AT",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9863",
+    "operator": "RJ",
+    "circle": "North East"
+  },
+  {
+    "prefix": "9864",
+    "operator": "RJ",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9865",
+    "operator": "RJ",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9866",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9867",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9870",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9871",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9872",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9873",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9874",
+    "operator": "VI",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9875",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9876",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9877",
+    "operator": "RJ",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9878",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9879",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9880",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9881",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9882",
+    "operator": "VI",
+    "circle": "Himachal Pradesh"
+  },
+  {
+    "prefix": "9883",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9884",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9885",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9886",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9887",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9888",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9889",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9890",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9891",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9892",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9893",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9894",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9895",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9896",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9897",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9898",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9899",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9900",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9901",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9902",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9903",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9904",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9905",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9906",
+    "operator": "AT",
+    "circle": "Jammu & Kashmir"
+  },
+  {
+    "prefix": "9907",
+    "operator": "RJ",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9908",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9909",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9910",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9911",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9912",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9913",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9914",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9915",
+    "operator": "AT",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9916",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9917",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9918",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9919",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9920",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9921",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9922",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9923",
+    "operator": "VI",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9924",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9925",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9926",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9927",
+    "operator": "VI",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9928",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9929",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9930",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9931",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9932",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9933",
+    "operator": "AT",
+    "circle": "West Bengal"
+  },
+  {
+    "prefix": "9934",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9935",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9936",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9937",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9938",
+    "operator": "AT",
+    "circle": "Odisha"
+  },
+  {
+    "prefix": "9939",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9940",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9941",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9942",
+    "operator": "RJ",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9943",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9944",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9945",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9946",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9947",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9948",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9949",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9950",
+    "operator": "AT",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9952",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9953",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9954",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9955",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9956",
+    "operator": "AT",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9957",
+    "operator": "AT",
+    "circle": "Assam"
+  },
+  {
+    "prefix": "9958",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9959",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9960",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9961",
+    "operator": "VI",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9962",
+    "operator": "VI",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9963",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9964",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9966",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9967",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9970",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9971",
+    "operator": "AT",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9972",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9973",
+    "operator": "AT",
+    "circle": "Bihar & Jharkhand"
+  },
+  {
+    "prefix": "9974",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9975",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9977",
+    "operator": "VI",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9978",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9979",
+    "operator": "VI",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9980",
+    "operator": "AT",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9981",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9982",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9983",
+    "operator": "VI",
+    "circle": "Rajasthan"
+  },
+  {
+    "prefix": "9984",
+    "operator": "VI",
+    "circle": "UE"
+  },
+  {
+    "prefix": "9985",
+    "operator": "VI",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9986",
+    "operator": "VI",
+    "circle": "Karnataka"
+  },
+  {
+    "prefix": "9987",
+    "operator": "AT",
+    "circle": "Maharashtra"
+  },
+  {
+    "prefix": "9988",
+    "operator": "VI",
+    "circle": "Punjab"
+  },
+  {
+    "prefix": "9989",
+    "operator": "AT",
+    "circle": "Andhra Pradesh & Telangana"
+  },
+  {
+    "prefix": "9990",
+    "operator": "VI",
+    "circle": "Delhi"
+  },
+  {
+    "prefix": "9991",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9992",
+    "operator": "VI",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9993",
+    "operator": "AT",
+    "circle": "Madhya Pradesh & Chhattisgarh"
+  },
+  {
+    "prefix": "9994",
+    "operator": "AT",
+    "circle": "Tamil Nadu"
+  },
+  {
+    "prefix": "9995",
+    "operator": "AT",
+    "circle": "Kerala"
+  },
+  {
+    "prefix": "9996",
+    "operator": "AT",
+    "circle": "Haryana"
+  },
+  {
+    "prefix": "9997",
+    "operator": "AT",
+    "circle": "UW"
+  },
+  {
+    "prefix": "9998",
+    "operator": "AT",
+    "circle": "Gujarat"
+  },
+  {
+    "prefix": "9999",
+    "operator": "VI",
+    "circle": "Delhi"
+  }
+]
